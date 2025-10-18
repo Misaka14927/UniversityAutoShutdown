@@ -1,0 +1,2 @@
+# UniversityAutoShutdown
+中国会自动断电大学城用的，基于学了一半的C，更改#define时间为希望自动关机的时间然后放到startup下就好
